@@ -24,12 +24,7 @@ This is a simple steganography application that allows users to encode and decod
    cd Steganography-Tool
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the application:
+2.. Run the application:
    ```bash
    python STEGNOGRAPHY TOOL.py
    ```
